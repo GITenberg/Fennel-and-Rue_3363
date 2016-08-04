@@ -1,0 +1,48 @@
+_repo: Fennel-and-Rue_3363
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: The success of Verrian did not come early, and it did not come easily.
+  He had been trying a long time to get his work into the best magazines, and when
+  he had won the favor of the editors, whose interest he had perhaps had from the
+  beginning, it might be said that they began to accept his work from their consciences,
+  because in its way it was so good that they could not justly refuse it. The particular
+  editor who took Verrian's serial, after it had come back to the author from the
+  editors of the other leading periodicals, was in fact moved mainly by the belief
+  that the story would please the better sort of his readers. These, if they were
+  not so numerous as the worse, he felt had now and then the right to have their pleasure
+  studied. It was a serious story, and it was somewhat bitter, as Verrian himself
+  was, after his struggle to reach the public with work which he knew merited recognition.
+  But the world which does not like people to take themselves too seriously also likes
+  them to take themselves seriously, and the bitterness in Verrian's story proved
+  agreeable to a number of readers unexpectedly great. It intimated a romantic personality
+  in the author, and the world still likes to imagine romantic things of authors.
+  It likes especially to imagine them of novelists, now that there are no longer poets;
+  and when it began to like Verrian's serial, it began to write him all sorts of letters,
+  directly, in care of the editor, and indirectly to the editor, whom they asked about
+  Verrian more than about his story.
+gutenberg_issued: '2004-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fan mail -- Fiction'
+- !lcsh 'Novelists -- Fiction'
+- !lcsh 'Editors -- Fiction'
+- GITenberg
+title: Fennel and Rue
+url: http://www.gutenberg.org/ebooks/3363
