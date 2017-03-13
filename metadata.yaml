@@ -1,5 +1,8 @@
 _repo: Fennel-and-Rue_3363
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howells, William Dean
@@ -30,6 +33,8 @@ description: The success of Verrian did not come early, and it did not come easi
   and when it began to like Verrian's serial, it began to write him all sorts of letters,
   directly, in care of the editor, and indirectly to the editor, whom they asked about
   Verrian more than about his story.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3363#Fennel-and-Rue
 gutenberg_issued: '2004-10-24'
 gutenberg_type: Text
 identifiers:
